@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bencode": "^2.0.3"
+    "bencode": "^2.0.3",
+    "buffer": "^6.0.3",
+    "dgram": "^1.0.1",
+    "url": "^0.11.0"
   }
 }
